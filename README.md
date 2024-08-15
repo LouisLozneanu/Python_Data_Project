@@ -56,3 +56,19 @@ View my Jupyter Notebook with detailed steps here:
 ### Insights
 - Microsoft skills (Excel, PowerPoint, Word) seem to be the least paying skills while hard coding and visualization skills are paid higher.
 - It's important to keep in mind that the skills that are the highest paid share no common skills with what is most in-demand. Meaning that the top paid skills aren't as needed.
+
+
+
+## 4. What are the most optimal skills for a data analyst to learn?
+
+View my Jupyter Notebook with detailed steps here:
+[5_Optimal_Skills.ipynb](3_Project\5_Optimal_Skills.ipynb)
+
+### Results
+
+![Visualization of highest paid and most demanded skills for Data Analysts in the United States](3_Project\optimal_skills.png)
+
+### Insights
+- The closer a skill is to the top right corner, the more higher salary and prevalence that skills has.
+- Cloud base skills consistently have high pay but are not very prevalent across job postings
+- Analyst tools are both prevalent and have competitive salaries, showing that these skills are both valuable and needed. These skills also easily transfer between other common data tasks.

@@ -1,3 +1,22 @@
+# Overview
+Welcome to my analysis of the job market for Data Analysts in the United States. This project dives deep into top-paying and in-demand skills to find optimal job opportunities for data analysts.
+
+The dats used in the project was sourced from Luke Barrouse's Python Course, which contained information about job titles, salaries, locations, and essential skills. Python was used for this project to explore the data and answer the following questions.
+
+# The Questions
+- What are the most demanded skills for the top 3 most popular data roles in the United States?
+- How are in-demand skills trending for Data Analysts?
+- How well do jobs and skills pay for Data Analysts?
+- What are the most optimal skills for a data analyst to learn?
+
+
+# Tools I Used
+For my analysis of the Data Analyst job market, I harnessed the following tools:
+
+- Python: Used for data cleaning, analysis, and visualization. More specifically, I used the Pandas library to analyze the data, the Matplotlib library to visualize the data, and the Seaborn library to create more advanced visualizations.
+- Jupyter Notebooks: Used to run Python scripts and include notes within my analysis.
+- Visual Studio Code: The environment I used to write and execute my code.
+
 # The Analysis
 ## 1. What are the most demanded skills for the top 3 most popular data roles in the United States?
 
